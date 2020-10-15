@@ -9,13 +9,13 @@
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section 
 
-![example-desktop](reference_images/desktop.jpg)
+![example-desktop](/mockup%20images/desktop.png)
 
 ## Tablet
 
-![example-tablet](reference_images/tablet.png)
+![example-tablet](/mockup%20images/tablet.png)
 
 ## Mobile
 
-![example-mobile](reference_images/mobile.png)
+![example-mobile](/mockup%20images/mobile.png)
 
