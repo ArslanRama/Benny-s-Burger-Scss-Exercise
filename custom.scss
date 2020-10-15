@@ -162,6 +162,7 @@ h1, h3, h4, h5 {
             img {
                 width: 100%;
             }
+        
             h5 {
                 font-family: $head_font;
                 margin: 15px 0;
@@ -174,7 +175,14 @@ h1, h3, h4, h5 {
             button {
                 @extend .button_basics;
             }
+            @media screen and (max-width: 768px) {
+             > img {
+                width: 100%;
+                height: 450px;
+            }
         }
+        }
+        
     }
 }
 
