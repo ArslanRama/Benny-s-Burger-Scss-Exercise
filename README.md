@@ -6,9 +6,6 @@
 
 ## Desktop:
 
-* site header is sticky to the top 
-* add scroll to section - on click on the items in the menu, scroll to section 
-
 ![example-desktop](/mockup%20images/desktop.png)
 
 ## Tablet
