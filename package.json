@@ -1,0 +1,15 @@
+{
+  "name": "bennys-burger",
+  "version": "1.0.0",
+  "description": "> Let's use Bootstrap and SCSS to create a restaurant page! > This exercise focuses mainly importing files, variables, @mixin, and @extend topics. > font family for heading: https://fonts.google.com/specimen/Love+Ya+Like+A+Sister",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aslan",
+  "license": "ISC"
+}
