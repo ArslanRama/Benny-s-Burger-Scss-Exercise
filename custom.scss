@@ -1,7 +1,8 @@
-
 @import "./node_modules/bootstrap/scss/bootstrap";
 @import "./variables";
 @import "./mixins";
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/mixins/_breakpoints";
 
 body {
     font-family: $body_font;
@@ -15,6 +16,7 @@ h1, h3, h4, h5 {
 .navbar {
     background: $main_dark;
     font-family: $head_font;
+   
 
     .navbar-brand {
         color: $primary_color;
